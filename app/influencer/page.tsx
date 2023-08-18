@@ -245,9 +245,24 @@ export default function InfluencerPage() {
           </TableBody>
         </Table>
       </Card>
-      {/* <Grid numItemsSm={2} numItemsLg={3} className="gap-6">
-      </Grid> */}
-      {/* <Chart /> */}
+      <div className='flex flex-row bg-white h-32 w-full self-center'>
+        <div className='flex flex-col w-1/2 justify-center items-center'>
+          <div className='flex flex-col justify-center'>
+            <Title>Email: focman26@gmail.com</Title>
+            <Title>Phone: +84358294904</Title>
+          </div>
+        </div>
+        <div className='flex flex-col w-1/2 justify-center items-center'>
+          <div className='flex flex-col justify-center'>
+            <a>
+              <Title>Privacy and Policy</Title>
+            </a>
+            <a>
+              <Title>Term of service</Title>
+            </a>
+          </div>
+        </div>
+      </div>
     </main>
   );
 }

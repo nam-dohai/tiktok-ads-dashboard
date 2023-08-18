@@ -270,7 +270,7 @@ export default function ShopPage() {
               <Title>Privacy and Policy</Title>
             </a>
             <a>
-              <Title>Term of services</Title>
+              <Title>Term of service</Title>
             </a>
           </div>
         </div>

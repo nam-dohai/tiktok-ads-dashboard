@@ -4,11 +4,11 @@ import { Card, Metric, Text, Title, BarList, Flex, Grid, TableRow, TableHead, Ta
 import Chart from './dashboard/chart';
 
 const categories = [
-  { name: 'Beauty & Personal Care', value: '3420000', percentOfSales: 30, },
-  { name: 'Womenswear & Underwear', value: '2200000', percentOfSales: 18, },
-  { name: 'Home Supplies', value: '608580', percentOfSales: 5,},
-  { name: 'Health', value: '518940', percentOfSales: 5,},
-  { name: 'Sports & Outdoor', value: '512530', percentOfSales: 5, }
+  { name: 'Beauty & Personal Care', value: 3420000},
+  { name: 'Womenswear & Underwear', value: 2200000},
+  { name: 'Home Supplies', value: 608580},
+  { name: 'Health', value: 518940},
+  { name: 'Sports & Outdoor', value: 512530}
 ];
 
 const subCategories = [
@@ -56,12 +56,7 @@ export default function PlaygroundPage() {
             <Text className="text-right">Revenue</Text>
           </Flex>
           <BarList
-            data={categories.map(item => {
-              return {
-                'name': item.name,
-                'value': item.value
-              }
-            })}
+            data={categories}
             valueFormatter={(number: number) =>
               Intl.NumberFormat('us').format(number).toString() + "$"
             }
@@ -98,6 +93,24 @@ export default function PlaygroundPage() {
         </Card>
       </Grid>
       <Chart />
+      <div className='flex flex-row bg-white h-32 w-full self-center'>
+        <div className='flex flex-col w-1/2 justify-center items-center'>
+          <div className='flex flex-col justify-center'>
+            <Title>Email: focman26@gmail.com</Title>
+            <Title>Phone: +84358294904</Title>
+          </div>
+        </div>
+        <div className='flex flex-col w-1/2 justify-center items-center'>
+          <div className='flex flex-col justify-center'>
+            <a>
+              <Title>Privacy and Policy</Title>
+            </a>
+            <a>
+              <Title>Term of service</Title>
+            </a>
+          </div>
+        </div>
+      </div>
     </main>
   );
 }
