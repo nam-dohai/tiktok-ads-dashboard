@@ -93,7 +93,7 @@ const products = [
   {
     rank: 1,
     title: "65% Off - Blursh Liquid Blush",
-    image_url: "https://t-img.picturehaven.net/product/709e9639-5ee8-487d-b251-8bcef04d3544-20230723.jpeg?imageMogr2/auto-orient/thumbnail/306x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/product/709e9639-5ee8-487d-b251-8bcef04d3544-20230723.jpeg",
     price: 6.36,
     sale: '8.2K',
     revenue: '52.10K',
@@ -109,7 +109,7 @@ const products = [
   {
     rank: 3,
     title: "1 Piece Ice Cube Tray with Lid, Reusable Ice Tray, Round Ice Ball Maker Mold",
-    image_url: "https://t-img.picturehaven.net/product/5e3050cc-b393-41d1-b7f9-c7d7892d319c-20230731.jpeg?imageMogr2/auto-orient/thumbnail/100x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/product/5e3050cc-b393-41d1-b7f9-c7d7892d319c-20230731.jpeg",
     price: 1.87,
     sale: '2.6K',
     revenue: '4.77K',
@@ -117,7 +117,7 @@ const products = [
   {
     rank: 4,
     title: "Cluster Lashes Kit",
-    image_url: "https://t-img.picturehaven.net/product/62332fcb-a9cf-4d25-a294-f464c07a13b6-20230725.jpeg?imageMogr2/auto-orient/thumbnail/100x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/product/62332fcb-a9cf-4d25-a294-f464c07a13b6-20230725.jpeg",
     price: 12.71,
     sale: '2.1K',
     revenue: '26.81K',
@@ -125,7 +125,7 @@ const products = [
   {
     rank: 5,
     title: "Blursh Bronzed - Liquid Bronzer/Contour",
-    image_url: "https://t-img.picturehaven.net/product/d20cf60b-3bfe-4c05-a7cd-9886ba050063-20230807.jpeg?imageMogr2/auto-orient/thumbnail/100x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/product/d20cf60b-3bfe-4c05-a7cd-9886ba050063-20230807.jpeg",
     price: 12.72,
     sale: '1.9K',
     revenue: '24.07K',
@@ -133,7 +133,7 @@ const products = [
   {
     rank: 6,
     title: "Free Soul Apple Cider Vinegar Gummies Gluten Free GMO Free",
-    image_url: "https://t-img.picturehaven.net/product/136d9616-6db3-44c7-ab6b-be0b068f93b8-20230606.jpeg?imageMogr2/auto-orient/thumbnail/500x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/product/136d9616-6db3-44c7-ab6b-be0b068f93b8-20230606.jpeg",
     price: 12.71,
     sale: '1.8K',
     revenue: '22.53K',
@@ -141,7 +141,7 @@ const products = [
   {
     rank: 7,
     title: "3pcs/set Water Bottle, Portable Gradient Sport Bottle, Fitness Sports Water Bottle",
-    image_url: "https://t-img.picturehaven.net/product/f7219326-cc4a-418d-b1bf-7ee812c92438-20230731.jpeg?imageMogr2/auto-orient/thumbnail/100x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/product/f7219326-cc4a-418d-b1bf-7ee812c92438-20230731.jpeg",
     price: 8.91,
     sale: '1.3K',
     revenue: '11.87K',
@@ -149,7 +149,7 @@ const products = [
   {
     rank: 8,
     title: "1 Piece Weekly Notebook, Spiral Notebook, Weekly Planner Book",
-    image_url: "https://t-img.picturehaven.net/product/41c07099-b1aa-4543-8410-20dcce047e8d-20230731.jpeg?imageMogr2/auto-orient/thumbnail/100x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/product/41c07099-b1aa-4543-8410-20dcce047e8d-20230731.jpeg",
     price: 1.15,
     sale: '1.4K',
     revenue: '1.61K',
@@ -157,7 +157,7 @@ const products = [
   {
     rank: 9,
     title: "OUTFIT DRESS TOP TROUSER JUMPSUIT",
-    image_url: "https://t-img.picturehaven.net/product/a4193bd1-3a2b-4e60-8079-c5755ab695ba-20230623.jpeg?imageMogr2/auto-orient/thumbnail/100x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/product/a4193bd1-3a2b-4e60-8079-c5755ab695ba-20230623.jpeg",
     price: 8.91,
     sale: '1.3K',
     revenue: '11.87K',
@@ -165,7 +165,7 @@ const products = [
   {
     rank: 10,
     title: "Nature Spell Rosemary Oil For Hair 150ml",
-    image_url: "https://t-img.picturehaven.net/product/4f16327d-faa1-455b-9745-e9b2d7edfdc4-20230811.jpeg?imageMogr2/auto-orient/thumbnail/500x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/product/4f16327d-faa1-455b-9745-e9b2d7edfdc4-20230811.jpeg",
     price: 9.16,
     sale: '1.2K',
     revenue: '11.06K',
@@ -264,10 +264,10 @@ export default function ProductsPage() {
         </div>
         <div className='flex flex-col w-1/2 justify-center items-center'>
           <div className='flex flex-col justify-center'>
-            <a>
+            <a href='privacy-policy'>
               <Title>Privacy and Policy</Title>
             </a>
-            <a>
+            <a href='term-of-service'>
               <Title>Term of service</Title>
             </a>
           </div>

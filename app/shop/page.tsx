@@ -71,7 +71,7 @@ const shops = [
   {
     rank: 1,
     title: "FSG Electronic Supermarket",
-    image_url: "https://t-img.picturehaven.net/product/shop/8a51d294-4bf2-4440-9a23-49f3af504a9c-20230805.jpeg?imageMogr2/auto-orient/thumbnail/500x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/product/shop/8a51d294-4bf2-4440-9a23-49f3af504a9c-20230805.jpeg",
     previousSale: 13,
     currentSale: '502',
     salesGrowthRatio: "3761.54%",
@@ -81,7 +81,7 @@ const shops = [
   {
     rank: 2,
     title: "Pokemon Bundles UK",
-    image_url: "https://t-img.picturehaven.net/product/shop/6b136b6b-2554-4786-acb1-58572fe6a561-20230707.jpeg?imageMogr2/auto-orient/thumbnail/100x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/product/shop/6b136b6b-2554-4786-acb1-58572fe6a561-20230707.jpeg",
     previousSale: 18,
     currentSale: '412',
     salesGrowthRatio: "2188.89%",
@@ -91,7 +91,7 @@ const shops = [
   {
     rank: 3,
     title: "Celestia Collectables",
-    image_url: "https://t-img.picturehaven.net/product/shop/a5d2929f-2f74-4abc-b101-8c4b0b0ea1a6-20230731.jpeg?imageMogr2/auto-orient/thumbnail/500x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/product/shop/a5d2929f-2f74-4abc-b101-8c4b0b0ea1a6-20230731.jpeg",
     previousSale: 21,
     currentSale: '210',
     salesGrowthRatio: "900.00%",
@@ -101,7 +101,7 @@ const shops = [
   {
     rank: 4,
     title: "Porte a Porte fashion",
-    image_url: "https://t-img.picturehaven.net/product/shop/a6229c77-236a-4d7d-905b-35182d9731f5-20230711.jpeg?imageMogr2/auto-orient/thumbnail/100x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/product/shop/a6229c77-236a-4d7d-905b-35182d9731f5-20230711.jpeg",
     previousSale: 43,
     currentSale: '574',
     salesGrowthRatio: "1266.67%",
@@ -111,7 +111,7 @@ const shops = [
   {
     rank: 5,
     title: "anessa05",
-    image_url: "https://t-img.picturehaven.net/product/shop/5893ed20-c222-41c4-bb92-b9e0fba51f3a-20230801.jpeg?imageMogr2/auto-orient/thumbnail/500x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/product/shop/5893ed20-c222-41c4-bb92-b9e0fba51f3a-20230801.jpeg",
     previousSale: 21,
     currentSale: '209',
     salesGrowthRatio: "895.24%",
@@ -121,7 +121,7 @@ const shops = [
   {
     rank: 6,
     title: "Intwine Inclusive",
-    image_url: "https://t-img.picturehaven.net/product/shop/5893ed20-c222-41c4-bb92-b9e0fba51f3a-20230801.jpeg?imageMogr2/auto-orient/thumbnail/500x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/product/shop/5893ed20-c222-41c4-bb92-b9e0fba51f3a-20230801.jpeg",
     previousSale: 64,
     currentSale: '612',
     salesGrowthRatio: "856.25%",
@@ -131,7 +131,7 @@ const shops = [
   {
     rank: 7,
     title: "Sase Boutique",
-    image_url: "https://t-img.picturehaven.net/product/shop/d16019ed-d822-4ad3-933d-19c69d8a281e-20230801.jpeg?imageMogr2/auto-orient/thumbnail/100x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/product/shop/d16019ed-d822-4ad3-933d-19c69d8a281e-20230801.jpeg",
     previousSale: 350,
     currentSale: '2.9K',
     salesGrowthRatio: "735.14%",
@@ -141,7 +141,7 @@ const shops = [
   {
     rank: 8,
     title: "Tingran",
-    image_url: "https://t-img.picturehaven.net/product/shop/5893ed20-c222-41c4-bb92-b9e0fba51f3a-20230801.jpeg?imageMogr2/auto-orient/thumbnail/500x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/product/shop/5893ed20-c222-41c4-bb92-b9e0fba51f3a-20230801.jpeg",
     previousSale: 13,
     currentSale: '502',
     salesGrowthRatio: "3761.54%",
@@ -151,7 +151,7 @@ const shops = [
   {
     rank: 9,
     title: "Urchoice.show",
-    image_url: "https://t-img.picturehaven.net/product/shop/37d691e0-3084-45bb-992a-18683aeaf6d2-20230806.jpeg?imageMogr2/auto-orient/thumbnail/100x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/product/shop/37d691e0-3084-45bb-992a-18683aeaf6d2-20230806.jpeg",
     previousSale: 40,
     currentSale: '263',
     salesGrowthRatio: "557.50%",
@@ -161,7 +161,7 @@ const shops = [
   {
     rank: 10,
     title: "DOCHAK",
-    image_url: "https://t-img.picturehaven.net/product/shop/4f6378da-2ad3-4213-b6bd-506c289f178f-20230807.jpeg?imageMogr2/auto-orient/thumbnail/500x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/product/shop/4f6378da-2ad3-4213-b6bd-506c289f178f-20230807.jpeg",
     previousSale: 13,
     currentSale: '81',
     salesGrowthRatio: "523.08%",
@@ -266,10 +266,10 @@ export default function ShopPage() {
         </div>
         <div className='flex flex-col w-1/2 justify-center items-center'>
           <div className='flex flex-col justify-center'>
-            <a>
+            <a href='privacy-policy'>
               <Title>Privacy and Policy</Title>
             </a>
-            <a>
+            <a href='term-of-service'>
               <Title>Term of service</Title>
             </a>
           </div>

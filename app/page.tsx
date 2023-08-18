@@ -102,10 +102,10 @@ export default function PlaygroundPage() {
         </div>
         <div className='flex flex-col w-1/2 justify-center items-center'>
           <div className='flex flex-col justify-center'>
-            <a>
+            <a href='privacy-policy'>
               <Title>Privacy and Policy</Title>
             </a>
-            <a>
+            <a href='term-of-service'>
               <Title>Term of service</Title>
             </a>
           </div>

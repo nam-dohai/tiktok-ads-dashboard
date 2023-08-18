@@ -71,7 +71,7 @@ const influencers = [
   {
     rank: 1,
     title: "7colorhousequeen_uk",
-    image_url: "https://t-img.picturehaven.net/tikmeta/e69ffa9f-99c7-4dff-8301-4d7625abb8d1-20230722.jpeg?imageMogr2/auto-orient/thumbnail/100x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/tikmeta/e69ffa9f-99c7-4dff-8301-4d7625abb8d1-20230722.jpeg",
     previousSale: 1,
     currentSale: '2.7K',
     follower: '4.0K',
@@ -80,7 +80,7 @@ const influencers = [
   {
     rank: 2,
     title: "Superb",
-    image_url: "https://t-img.picturehaven.net/tikmeta/0fe8f86c-274c-40c0-9869-89aed0f3b74d-20230611.jpeg?imageMogr2/auto-orient/thumbnail/100x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/tikmeta/0fe8f86c-274c-40c0-9869-89aed0f3b74d-20230611.jpeg",
     previousSale: 3,
     currentSale: '1.8K',
     follower: '22.2K',
@@ -89,7 +89,7 @@ const influencers = [
   {
     rank: 3,
     title: "cfyhvf",
-    image_url: "https://t-img.picturehaven.net/tikmeta/a19afc14-ffd7-421b-9bff-239a0b836100-20230629.jpeg?imageMogr2/auto-orient/thumbnail/100x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/tikmeta/a19afc14-ffd7-421b-9bff-239a0b836100-20230629.jpeg",
     previousSale: 3,
     currentSale: '190',
     follower: '3.6K',
@@ -98,7 +98,7 @@ const influencers = [
   {
     rank: 4,
     title: "Zara J",
-    image_url: "https://t-img.picturehaven.net/tikmeta/e69ffa9f-99c7-4dff-8301-4d7625abb8d1-20230722.jpeg?imageMogr2/auto-orient/thumbnail/100x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/tikmeta/e69ffa9f-99c7-4dff-8301-4d7625abb8d1-20230722.jpeg",
     previousSale: 1,
     currentSale: '465',
     follower: '4.0K',
@@ -107,7 +107,7 @@ const influencers = [
   {
     rank: 5,
     title: "vanfi_fashion",
-    image_url: "https://t-img.picturehaven.net/tikmeta/e6588ed0-b78e-4042-868a-6a1ad3791378-20230723.jpeg?imageMogr2/auto-orient/thumbnail/100x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/tikmeta/e6588ed0-b78e-4042-868a-6a1ad3791378-20230723.jpeg",
     previousSale: 2,
     currentSale: '450',
     follower: '925',
@@ -116,7 +116,7 @@ const influencers = [
   {
     rank: 6,
     title: "Hollie",
-    image_url: "https://t-img.picturehaven.net/tikmeta/5c39c48d-2013-4606-bdbd-da45ae9d5f6a-20230725.jpeg?imageMogr2/auto-orient/thumbnail/100x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/tikmeta/5c39c48d-2013-4606-bdbd-da45ae9d5f6a-20230725.jpeg",
     previousSale: 2,
     currentSale: '239',
     follower: '4.14K',
@@ -125,7 +125,7 @@ const influencers = [
   {
     rank: 7,
     title: "katelynkays_",
-    image_url: "https://t-img.picturehaven.net/tikmeta/67cc8c32-07b6-4f42-bbc6-2ba68b8d6a81-20230719.jpeg?imageMogr2/auto-orient/thumbnail/100x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/tikmeta/67cc8c32-07b6-4f42-bbc6-2ba68b8d6a81-20230719.jpeg",
     previousSale: 2,
     currentSale: '200',
     follower: '922',
@@ -134,7 +134,7 @@ const influencers = [
   {
     rank: 8,
     title: "Caitlin Muirhead",
-    image_url: "https://t-img.picturehaven.net/tikmeta/1ff058d4-fced-411f-944a-e45f9c1eaba3-20230709.jpeg?imageMogr2/auto-orient/thumbnail/100x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/tikmeta/1ff058d4-fced-411f-944a-e45f9c1eaba3-20230709.jpeg",
     previousSale: 1,
     currentSale: '56',
     follower: '280.4K',
@@ -143,7 +143,7 @@ const influencers = [
   {
     rank: 9,
     title: "Han",
-    image_url: "https://t-img.picturehaven.net/tikmeta/ebf95a73-7dbc-494e-8615-1f1792355ab6-20230723.jpeg?imageMogr2/auto-orient/thumbnail/100x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/tikmeta/ebf95a73-7dbc-494e-8615-1f1792355ab6-20230723.jpeg",
     previousSale: 6,
     currentSale: '320',
     follower: '126.2K',
@@ -152,7 +152,7 @@ const influencers = [
   {
     rank: 10,
     title: "Zoe Hague",
-    image_url: "https://t-img.picturehaven.net/tikmeta/602c41e5-4c3b-4794-b08f-196b7e997554-20230702.jpeg?imageMogr2/auto-orient/thumbnail/100x/strip/format/WEBP/quality/75!/ignore-error/1",
+    image_url: "https://t-img.picturehaven.net/tikmeta/602c41e5-4c3b-4794-b08f-196b7e997554-20230702.jpeg",
     previousSale: 1,
     currentSale: '50',
     follower: '91.0K',
@@ -254,10 +254,10 @@ export default function InfluencerPage() {
         </div>
         <div className='flex flex-col w-1/2 justify-center items-center'>
           <div className='flex flex-col justify-center'>
-            <a>
+            <a href='privacy-policy'>
               <Title>Privacy and Policy</Title>
             </a>
-            <a>
+            <a href='term-of-service'>
               <Title>Term of service</Title>
             </a>
           </div>
